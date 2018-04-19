@@ -1,2 +1,2 @@
 # wemos
-File documentation Wemos D1 Mini ESP8266MOD AI-THINKER
+File documentation Wemos D1 Mini ESP8266MOD
